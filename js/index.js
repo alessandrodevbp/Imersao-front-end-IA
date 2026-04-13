@@ -3,7 +3,7 @@
     e.preventDefault();
     var figure = this.querySelector('figure');
     var nome = figure.querySelector('figcaption').textContent;
-    var imagem = figure.querySelector('img').getAttribute('src');
+    var imagem = figure.querySelector('img').src;
     localStorage.setItem('perfilAtivo', JSON.stringify({ nome: nome, imagem: imagem }));
     window.location.href = this.getAttribute('href');
     
