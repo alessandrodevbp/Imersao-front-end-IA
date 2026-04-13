@@ -10,16 +10,13 @@
   });
 });
  // Recuperar perfil ativo do localStorage e exibir no catálogo
-var perfil = JSON.parse(localStorage.getItem('perfilAtivo'));
-if (perfil) {
-  // Atualiza o nome no navbar
-  var nomeLink = document.querySelector('.kids-link');
-  if (nomeLink) nomeLink.textContent = perfil.nome;
+const perfil = JSON.parse(localStorage.getItem('perfilAtivo'));
 
-  // Atualiza a imagem do perfil no navbar
-  var profileIcon = document.querySelector('.profile-icon');
-  if (profileIcon) profileIcon.setAttribute('src', perfil.imagem);
-} 
+if (perfil) {
+  document.querySelector('.perfil-nome').textContent = perfil.nome;
+  document.querySelector('.perfil-img').src = perfil.imagem;
+}
+
 
 
 
