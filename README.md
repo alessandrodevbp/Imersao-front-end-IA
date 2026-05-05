@@ -1,0 +1,2 @@
+Projeto front-end inspirado na Netflix, recriando a tela “Quem está assistindo” com múltiplos perfis de usuário. Cada perfil possui identificação própria ao catálogo, com categorias como “Mais assistidos”, “Séries” e “Para maratonar”. A aplicação simula uma experiência real de streaming, com foco em organização de conteúdo e navegação baseada no perfil selecionado.
+Estou aprimorando a funcionalidade para que cada usuário visualize um perfil personalizado ao acessá-lo.
