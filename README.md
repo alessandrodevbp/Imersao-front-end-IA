@@ -27,10 +27,6 @@ O principal objetivo deste projeto é aprimorar habilidades em desenvolvimento f
 
 Além da reprodução da interface, o foco atual está na implementação de uma experiência personalizada para cada usuário, permitindo que diferentes perfis exibam conteúdos específicos ao serem acessados.
 
-📸 Preview do projeto
-
-Adicionar screenshots ou GIFs da aplicação.
-
 
 📌 Próximas melhorias:
 ❤️ Lista de favoritos por perfil
