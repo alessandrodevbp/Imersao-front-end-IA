@@ -1,10 +1,14 @@
-🎬 Clone Netflix — Seleção de Perfis e Experiência Personalizada
+  🎬 Clone Netflix — Seleção de Perfis e Experiência Personalizada
 
 Projeto front-end inspirado na interface da Netflix, recriando a clássica tela “Quem está assistindo?” com múltiplos perfis de usuário e navegação personalizada.
 
 A aplicação simula a experiência de uma plataforma de streaming moderna, permitindo que cada perfil tenha acesso a conteúdos organizados de forma individual, proporcionando uma experiência mais imersiva e dinâmica.
 
+
 🚀 Funcionalidades
+
+<div>
+  
 👤 Tela de seleção de perfis inspirada na Netflix
 🎭 Múltiplos usuários com identidade própria
 📂 Catálogo separado por categorias
@@ -16,7 +20,11 @@ Para maratonar
 🎨 Interface moderna e responsiva
 ⚡ Navegação dinâmica entre perfis e conteúdos
 📱 Experiência adaptada para diferentes dispositivos
-🛠️ Tecnologias utilizadas
+
+<div/>
+
+🛠️ Tecnologias utilizadas:
+
 HTML5
 CSS3
 JavaScript
