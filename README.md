@@ -40,14 +40,7 @@ Adicionar screenshots ou GIFs da aplicação.
 # Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-# Acesse a pasta
-cd seu-repositorio
 
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm run dev
 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
