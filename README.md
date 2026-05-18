@@ -1,3 +1,6 @@
+<div align="center">
+  <img scr="<img width="1920" height="888" alt="Image" src="https://github.com/user-attachments/assets/b9911e91-be49-48f7-aa7b-943803c79f80" width="1000px" />
+</div>
   # 🎬 Clone Netflix — Seleção de Perfis e Experiência Personalizada
 
 Projeto front-end inspirado na interface da Netflix, recriando a clássica tela “Quem está assistindo?” com múltiplos perfis de usuário e navegação personalizada.
